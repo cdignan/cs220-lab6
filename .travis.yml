@@ -1,2 +1,4 @@
 language: C
-script: make
+script:
+  - cd hello
+  - make
